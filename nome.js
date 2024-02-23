@@ -2,8 +2,8 @@
 //Imprima-os no console, em uma única linha 
 //Usando os template litteras
 
-let nome = "Jélia"
-let nome2 = "Nichole"
+let nome = "Julia"
+let nome2 = "Nicole"
 let nomes = "Roese"
 let nome3 = "Julia Naiara"
 
