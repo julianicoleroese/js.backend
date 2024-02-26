@@ -7,6 +7,10 @@ let cadastro  = {
     idade: "17",
     documento: "090.454.269-60",
     estadocivil: "Solteira",
-    endereço: "Porto Mendes",
+    endereco: "Porto Mendes",
 }
-console.log(`O nome do(a) cadastrante é ${nome} e possui ${idade}, o CPF informado é ${documento}, seu estado civil é ${estadocivil} e reside em ${endereço}`)
+console.log(`O nome do(a) cadastrante é ${cadastro.nome}`)
+console.log(`Idade: ${cadastro.idade}`)
+console.log(`CPF: ${cadastro.documento}`)
+console.log(`Estado Civil: ${cadastro.estadocivil}`)
+console.log(`Endereço: ${cadastro.endereco}`)
