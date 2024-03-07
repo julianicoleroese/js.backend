@@ -15,4 +15,3 @@ else if (idade >= 18 && cnh == true && autorizaçao == false){
 else{
     console.log('nao pode dirigir e nem entrar em propriedade privada')
 }
-
